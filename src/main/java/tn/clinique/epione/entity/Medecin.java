@@ -18,6 +18,7 @@ public class Medecin implements Serializable{
 
 	/* Modification 1 */
 	/* Modification 2 */
+	/* Modification 3 */
 
 	private int id;
 	private User user;
