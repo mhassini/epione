@@ -17,6 +17,8 @@ import javax.persistence.OneToMany;
 public class Medecin implements Serializable{
 
 	/* Modification 1 */
+	/* Modification 2 */
+
 	private int id;
 	private User user;
 	private String specialite;
