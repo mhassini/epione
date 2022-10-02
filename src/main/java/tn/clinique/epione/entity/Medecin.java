@@ -15,6 +15,8 @@ import javax.persistence.OneToMany;
 @SuppressWarnings("serial")
 @Entity
 public class Medecin implements Serializable{
+
+	/* Modification 1 */
 	private int id;
 	private User user;
 	private String specialite;
